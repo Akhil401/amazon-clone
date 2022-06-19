@@ -26,9 +26,7 @@ const Home = () => {
           img="https://images-na.ssl-images-amazon.com/images/I/51imLrht6lL._SX389_BO1,204,203,200_.jpg"
         />
       </div>
-      <br />
-      <br />
-      <br />
+
       <div className="home__row">
         <Product
           id="132545"
